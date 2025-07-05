@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ajay Sharma
 
-I’m an Associate Software Engineer at Bosch Global Software Technologies, currently working with ECU testing using MSTest. With a strong foundation in Java and JavaScript ecosystems, I enjoy building backend systems, REST APIs, and full-stack applications.
+I’m an Software Engineer at Bosch Global Software Technologies, currently working with ECU testing using MSTest. With a strong foundation in Java and JavaScript ecosystems, I enjoy building backend systems, REST APIs, and full-stack applications.
 
 ---
 
