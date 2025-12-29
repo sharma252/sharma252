@@ -5,8 +5,8 @@
   <a href="https://sharma252.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/ajay-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ajay-vats-99a1101aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:5px;" />
   </a>
   <a href="https://leetcode.com/u/sharma_ajju/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
