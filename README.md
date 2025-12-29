@@ -1,85 +1,83 @@
 # 👋 Hi, I'm Ajay Sharma
+### Full Stack Developer | Java, Spring Boot & MERN Stack
 
-I'm a Full Stack Developer specializing in Java, Spring Boot, and MERN stack technologies. With 2+ years of experience building innovative web applications and scalable solutions, I focus on delivering high-quality software, optimizing performance, and collaborating with teams to drive project success.
+<p align="left">
+  <a href="https://sharma252.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ajay-sharma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
+I'm an **Associate Software Engineer at Bosch Global Software**, specializing in building scalable web applications. With 2+ years of experience, I focus on high-quality code, performance optimization, and solving complex problems.
 
-- 🏢 Associate Software Engineer at Bosch Global Software, Bangalore
+- 🏢 Currently working at **Bosch Global Software, Bangalore**
 - 🎓 B.Tech. in Information Technology, Chandigarh Engineering College
-- 📚 2+ years experience in Full Stack Development
-- 👨‍💻 Specialized in Java, Spring Boot, and MERN technologies
-- 🏆 Awards: Stride the Pride Award, Team Player Award (Bosch Global Software)
+- 🏆 Awarded **Stride the Pride** & **Team Player** at BGSW
+- ⚡ Fun fact: I enjoy mentoring students in MERN stack development
 
 ---
 
-## 💼 Professional Experience
+### �️ Tech Stack & Tools
 
-- **Bosch Global Software (Jan 2024 - Present)**  
-  Associate Software Engineer  
-  - Developed backend services for iTrams device (Java, Spring Boot, MySQL)
-  - Implemented automated tests (MSTest, C#) to enhance code quality
-  - Enhanced collaboration and troubleshooting for mixed-skill teams
+**Backend & Core**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **ShapeMySkills (Mar 2023 - Dec 2023)**  
-  Technical Trainer  
-  - Conducted MERN stack training and mentorship
-  - Improved student technical growth with personalized guidance
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Kritikal Solutions (Aug 2022 - Nov 2022)**  
-  Software Engineer Intern  
-  - Developed web apps using ReactJS
-  - Collaborated with senior engineers on features and technical solutions
+**Databases, DevOps & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🛠️ Skills & Technologies
-
-- **Programming:** Java, C#, C++, JavaScript
-- **Frameworks/Libraries:** Spring Boot, ReactJS, NodeJS, Selenium, MSTest
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** AWS Foundation, Git & GitHub, Docker, Jenkins, Bootstrap
-
----
-
-## 📦 Featured Projects
-
-### ✈️ Travel Recommender System
-A full-stack platform providing personalized travel suggestions. Features include destination search, user authentication, and interactive UI.  
-- Technologies: Java, Spring Boot, React, MySQL
-- [Frontend](https://github.com/sharma252/travel-recommend-frontend) | [Backend](https://github.com/sharma252/travel-recommend-backend)
-
-### 📰 Blog API Application
-A RESTful API for a blogging platform enabling CRUD operations, user management, and authentication.  
-- Technologies: Node.js, Express, MongoDB, JWT
-- [Source Code](https://github.com/sharma252/blog_app_backend)
-
-### 🏗️ Kanban Board Clone
-A fully functional Kanban board application for efficient task management, drag-and-drop, and responsive UI.  
-- Technologies: React, JSON Server, Jest, Tailwind CSS
-- [View Code](https://gitlab.com/jack_Sharma/kanban-board-clone)
+**Testing & Automation**
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MSTest](https://img.shields.io/badge/-MSTest-%23733794?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-## 📜 Certifications
-- Java Full Stack Developer (BGSW)
-- Front-End Essentials (Pirple.com)
-- AWS Foundation (Ducat India)
+### � GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma252&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma252&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+</p>
 
 ---
 
-## 📫 How to Reach Me
+### 📦 Featured Projects
+- ✈️ **[Travel Recommender](https://github.com/sharma252/travel-recommend-frontend)**: Full-stack platform providing personalized travel suggestions.
+- 📰 **[Blog API](https://github.com/sharma252/blog_app_backend)**: A RESTful API for a blogging platform with JWT authentication.
+- 🏗️ **[Kanban Board](https://kanban-board-clone-0158c0.gitlab.io/)**: Fully functional task management tool with drag-and-drop.
 
-- 📧 Email: ajay170vats@gmail.com
+---
+
+### 📫 Let's Connect
+- 📧 [ajay170vats@gmail.com](mailto:ajay170vats@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-sharma)
-- 🐙 [GitHub](https://github.com/sharma252)
+- 🐦 [Twitter (X)](https://x.com/AjayVats20)
 
----
-
-Thank you for visiting my profile!
-
-<!---
-sharma252/sharma252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharma252&color=blue" alt="Profile Views" />
+</p>
