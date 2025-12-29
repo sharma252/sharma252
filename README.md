@@ -3,80 +3,73 @@
 
 <p align="left">
   <a href="https://sharma252.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" style="border-radius:5px;" />
   </a>
   <a href="https://www.linkedin.com/in/ajay-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:5px;" />
+  </a>
+  <a href="https://leetcode.com/u/sharma_ajju/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="border-radius:5px;" />
+  </a>
+  <a href="mailto:ajay170vats@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:5px;" />
+  </a>
+  <a href="https://x.com/AjayVats20">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius:5px;" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-I'm an **Associate Software Engineer at Bosch Global Software**, specializing in building scalable web applications. With 2+ years of experience, I focus on high-quality code, performance optimization, and solving complex problems.
+### 🚀 Summary
+> **I build robust, scalable backends and interactive frontends, focusing on performance optimization and high-quality software delivery.** 
+As an Associate Software Engineer at **Bosch Global Software**, I specialize in enterprise-grade Java applications and modern MERN stack solutions.
 
-- 🏢 Currently working at **Bosch Global Software, Bangalore**
-- 🎓 B.Tech. in Information Technology, Chandigarh Engineering College
-- 🏆 Awarded **Stride the Pride** & **Team Player** at BGSW
-- ⚡ Fun fact: I enjoy mentoring students in MERN stack development
-
----
-
-### �️ Tech Stack & Tools
-
-**Backend & Core**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases, DevOps & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Testing & Automation**
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![MSTest](https://img.shields.io/badge/-MSTest-%23733794?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
-### � GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharma252&show_icons=true&theme=radical" alt="Ajay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma252&layout=compact&theme=radical" alt="Top Langs" width="45%" />
-</p>
+- 🔭 **Currently Exploring:** AWS Cloud Computing & Serverless Architectures.
+- 🌱 **Learning:** Deepening my expertise in Cloud Foundations and Scalable Systems.
 
 ---
 
 ### 📦 Featured Projects
-- ✈️ **[Travel Recommender](https://github.com/sharma252/travel-recommend-frontend)**: Full-stack platform providing personalized travel suggestions.
-- 📰 **[Blog API](https://github.com/sharma252/blog_app_backend)**: A RESTful API for a blogging platform with JWT authentication.
-- 🏗️ **[Kanban Board](https://kanban-board-clone-0158c0.gitlab.io/)**: Fully functional task management tool with drag-and-drop.
+- **✈️ [Travel Recommender](https://github.com/sharma252/travel-recommend-frontend)**: Full-stack platform providing personalized travel suggestions.
+- **📰 [Blog API](https://github.com/sharma252/blog_app_backend)**: A RESTful API for a blogging platform with JWT authentication.
+- **🏗️ [Kanban Board](https://kanban-board-clone-0158c0.gitlab.io/)**: Fully functional task management tool with drag-and-drop.
 
 ---
 
-### 📫 Let's Connect
-- 📧 [ajay170vats@gmail.com](mailto:ajay170vats@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-sharma)
-- 🐦 [Twitter (X)](https://x.com/AjayVats20)
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,python,maven" />
+</p>
+
+**Frontend & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,bootstrap,html,css" />
+</p>
+
+**DevOps, Tools & Scripting**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker,jenkins,git,github,postman,powershell,linux" />
+</p>
+
+**Specialized in:** Testing & Automation (Selenium, MSTest), API Development, and Agile (Jira).
+
+---
+
+### 📜 Certifications & Achievements
+- 🏆 **Stride the Pride Award** & **Team Player Award** (Bosch Global Software)
+- 🎓 **Java Full Stack Developer** (BGSW)
+- ☁️ **AWS Foundation** (Ducat India)
+- 🌐 **Front-End Essentials** (Pirple.com)
+
+---
+
+### 🏢 Professional Experience
+- **Associate Software Engineer** @ Bosch Global Software (Present)
+- **Technical Trainer** @ ShapeMySkills
+- **Software Engineer Intern** @ Kritikal Solutions
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharma252&color=blue" alt="Profile Views" />
