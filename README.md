@@ -3,19 +3,19 @@
 
 <p align="left">
   <a href="https://sharma252.github.io/my-portfolio/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" style="border-radius:5px;" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ajay-sharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/sharma_ajju/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="border-radius:5px;" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:ajay170vats@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:5px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/AjayVats20">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="border-radius:5px;" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -65,11 +65,6 @@ As an Associate Software Engineer at **Bosch Global Software**, I specialize in 
 - 🌐 **Front-End Essentials** (Pirple.com)
 
 ---
-
-### 🏢 Professional Experience
-- **Associate Software Engineer** @ Bosch Global Software (Present)
-- **Technical Trainer** @ ShapeMySkills
-- **Software Engineer Intern** @ Kritikal Solutions
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharma252&color=blue" alt="Profile Views" />
