@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajay Sharma
+Hi, I'm Ajay Sharma
 Full Stack Developer | Java, Spring Boot & MERN Stack
 
 <p align="left">
