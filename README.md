@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ajay Sharma
-### Full Stack Developer | Java, Spring Boot & MERN Stack
+Full Stack Developer | Java, Spring Boot & MERN Stack
 
 <p align="left">
   <a href="https://sharma252.github.io/my-portfolio/">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Summary
+🚀 Summary
 > **I build robust, scalable backends and interactive frontends, focusing on performance optimization and high-quality software delivery.** 
 As an Associate Software Engineer at **Bosch Global Software**, I specialize in enterprise-grade Java applications and modern MERN stack solutions.
 
@@ -30,14 +30,14 @@ As an Associate Software Engineer at **Bosch Global Software**, I specialize in 
 
 ---
 
-### 📦 Featured Projects
+📦 Featured Projects
 - **✈️ [Travel Recommender](https://github.com/sharma252/travel-recommend-frontend)**: Full-stack platform providing personalized travel suggestions.
 - **📰 [Blog API](https://github.com/sharma252/blog_app_backend)**: A RESTful API for a blogging platform with JWT authentication.
 - **🏗️ [Kanban Board](https://kanban-board-clone-0158c0.gitlab.io/)**: Fully functional task management tool with drag-and-drop.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 
 **Backend & Core**
 <p align="left">
@@ -58,7 +58,7 @@ As an Associate Software Engineer at **Bosch Global Software**, I specialize in 
 
 ---
 
-### 📜 Certifications & Achievements
+📜 Certifications & Achievements
 - 🏆 **Stride the Pride Award** & **Team Player Award** (Bosch Global Software)
 - 🎓 **Java Full Stack Developer** (BGSW)
 - ☁️ **AWS Foundation** (Ducat India)
