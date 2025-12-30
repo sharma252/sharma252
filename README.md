@@ -1,6 +1,7 @@
 Hi, I'm Ajay Sharma
+---
 Full Stack Developer | Java, Spring Boot & MERN Stack
-
+---
 <p align="left">
   <a href="https://sharma252.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/View%20Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Portfolio" />
